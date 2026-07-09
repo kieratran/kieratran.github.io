@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Kiera Tran",
+    "email": "kiera.tran194@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kieratran.github.io",
+    "summary": "Currently PhD Candidate at Georgia Tech. NASA Earth FINESST Awardee 2023. NASA SARP East Mentor 2026.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "311 Ferst Drive",
+      "postalCode": "30332",
+      "city": "Atlanta",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,28 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=AQDqDXQAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0003-3125-1742"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "kieratran",
+        "url": "https://github.com/kieratran"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Georgia Institute of Technology",
+      "area": "B.S in Earth and Atmospheric Sciences",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     }
