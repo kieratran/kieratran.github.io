@@ -5,10 +5,20 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
+<h2>Main Projects</h2>
+<div class="entries-grid">
+{% raw %}{% for post in site.projects %}
+  {% if post.category == "main" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}{% endraw %}
+</div>
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<h2>Student Projects</h2>
+<div class="entries-grid">
+{% raw %}{% for post in site.projects %}
+  {% if post.category == "student" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}{% endraw %}
+</div>
