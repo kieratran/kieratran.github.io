@@ -1,10 +1,21 @@
 ---
-title: "Radar-derived basal melt rates of Ross Ice Shelf, Antractica"
-category: main
-excerpt: "One or two sentence summary of the project."
+title: 'Radar-derived basal melt rates of Ross Ice Shelf, Antractica'
+permalink: /projects/Ross_project/
 header:
   teaser: /images/projects/glacier-model-thumb.jpg
+tags:
+  - cool posts
+  - category1
+  - category2
 ---
-Full project description goes here. You can include more images inline:
 
-![alt text](/images/projects/glacier-model-full.jpg)
+This project examines the relationship between airborne ice-penetrating radar attenuation rates and ice-shelf basal melt rates through ice temperature. We developed a thermal model to capture the melt rate of Ross Ice Shelf using ROSETTA-Ice airborne survey.
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
